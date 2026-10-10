@@ -1,0 +1,6 @@
+[
+  { "label": "standard stay with deposit", "totalprice": 150, "depositpaid": true, "additionalneeds": "Breakfast" },
+  { "label": "no deposit", "totalprice": 99, "depositpaid": false, "additionalneeds": "Late checkout" },
+  { "label": "zero price", "totalprice": 0, "depositpaid": false, "additionalneeds": "None" },
+  { "label": "high price", "totalprice": 99999, "depositpaid": true, "additionalneeds": "Airport pickup" }
+]
