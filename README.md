@@ -67,4 +67,4 @@ src/test/java/
 
 ---
 
-Built by **[Your Name]** · Software developer & QA automation engineer, available for backend development, API test automation and CI/CD contract work · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [Upwork](https://www.upwork.com/freelancers/YOUR_PROFILE)
+Built by BORRA NAGAVARDHAN REDDY · Software developer & QA automation engineer, available for backend development, API test automation and CI/CD contract work · [LinkedIn](www.linkedin.com/in/nagavardhan-reddy-borra-78a50723b) · [Upwork](https://www.upwork.com/freelancers/Siddartha Reddy B)
